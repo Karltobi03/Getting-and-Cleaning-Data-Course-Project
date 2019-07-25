@@ -1,7 +1,6 @@
-"Getting and Cleaning Data" Course Project Code Book
-Initial data for research
+# Getting and Cleaning Data - Course Project Code Book
 
-The data is taken from UCI HAR Dataset. This dataset provide the following variables for each activity:
+## The data is taken from UCI HAR Dataset. This dataset provide the following variables for each activity:
 
     subject - ID of participant
     activity - ID of activity type
@@ -32,7 +31,8 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals prod
 
 These signals were used to estimate variables of the feature vector for each pattern:
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
-CodeBook
+
+## CodeBook
 
 The following data transformations were conducted to form a tidy dataset:
 
