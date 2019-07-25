@@ -12,9 +12,7 @@ The following files from the initial dataset are used:
     6. train/y_train.txt - activity (from 1 to 6) for each measurement from the train set
     7. test/y_test.txt - activity (from 1 to 6) for each measurement from the test set
 
-# How script works
-
-Script involves the following stages:
+# Steps of the script
 
    1.  Downloads to R ids and descriptions for features being measured in experiment from file features.txt.
 
